@@ -4,7 +4,7 @@ var request = require("request")
 var cheerio = require("cheerio")
 var readline = require("readline")
 
-var categories = [ "a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z"]
+var categories = [ ]
 var businesses = { }
 var alphabet = "abcdefghijklmnopqrstuvwxyz"
 
