@@ -1,0 +1,13 @@
+asks==2.2.0
+async-generator==1.10
+attrs==18.2.0
+beautifulsoup4==4.7.0
+bs4==0.0.1
+h11==0.8.1
+idna==2.8
+multio==0.2.4
+outcome==1.0.0
+sniffio==1.0.0
+sortedcontainers==2.1.0
+soupsieve==1.6.1
+trio==0.9.0
